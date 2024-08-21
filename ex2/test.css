@@ -1,0 +1,36 @@
+.child{
+    width: 100px;
+    height: 100px;
+}
+
+.child1{
+    position: relative;
+    background: red;
+}
+
+.child2{
+    position: absolute;
+    background: pink;
+    top: 50px;
+    left: 40px;
+}
+.child3{
+    position: absolute;
+    background: yellow;
+    top: 100px;
+    left: 70px;
+}
+
+.child4{
+    position: absolute;
+    background: green;
+    top: 70px;
+    left: 130px;
+}
+
+.child5{
+    position: absolute;
+    background: blue;
+    top: 90px;
+    left: 150px;
+}
